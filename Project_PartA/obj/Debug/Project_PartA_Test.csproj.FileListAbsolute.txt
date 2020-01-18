@@ -1,0 +1,6 @@
+C:\Users\Παναγιώτης\source\repos\Project_partA\Project_PartA\obj\Debug\Project_PartA_Test.csprojAssemblyReference.cache
+C:\Users\Παναγιώτης\source\repos\Project_partA\Project_PartA\obj\Debug\Project_PartA.exe
+C:\Users\Παναγιώτης\source\repos\Project_partA\Project_PartA\obj\Debug\Project_PartA.pdb
+C:\Users\Παναγιώτης\source\repos\Project_partA\Project_PartA\bin\Debug\Project_PartA.exe.config
+C:\Users\Παναγιώτης\source\repos\Project_partA\Project_PartA\bin\Debug\Project_PartA.exe
+C:\Users\Παναγιώτης\source\repos\Project_partA\Project_PartA\bin\Debug\Project_PartA.pdb
